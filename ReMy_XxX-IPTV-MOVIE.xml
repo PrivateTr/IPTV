@@ -69,15 +69,15 @@
 </channel>
 
 <channel>
-<title><![CDATA[STALKER p1.iptvrocket]]></title>
+<title><![CDATA[STALKER king-box.club]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://p1.iptvrocket.tv:80::mac=00:1A:79:2D:EC:7B@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://king-box.club::mac=00:1a:79:4e:8e:2a@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[STALKER tvtv.pro]]></title>
+<title><![CDATA[STALKER pro-panel01]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://tvtv.pro:80::mac=00:1A:79:3A:F9:E2@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://pro-panel01.club:8080::mac=00:1a:79:39:66:17@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
