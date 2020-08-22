@@ -63,21 +63,21 @@
 </channel>
 
 <channel>
-<title><![CDATA[STALKER client.era]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://client.era-iptv.net:25461::mac=00:1A:79:42:30:BE@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
 <title><![CDATA[STALKER ip.cs4ip]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://ip.cs4ip.com:8000::mac=00:1A:79:00:33:53@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[STALKER s1.challenge]]></title>
+<title><![CDATA[STALKER p1.iptvrocket]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://s1.challenge.tn:7040::mac=00:1A:79:40:14:56@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://p1.iptvrocket.tv:80::mac=00:1A:79:2D:EC:7B@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[STALKER tvtv.pro]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://tvtv.pro:80::mac=00:1A:79:3A:F9:E2@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
