@@ -80,18 +80,6 @@
 <playlist_url><![CDATA[TRModules@stlkr::url=http://balkanfree.net:25461::mac=00:1A:79:36:4E:ED@start@stlkr]]></playlist_url>
 </channel>
 
-<channel>
-<title><![CDATA[REMY_IPTV]]></title>
-<description></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/remytr-org/git_git/master/remy_xxx.m3u]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[REMY_xxx]]></title>
-<description></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/remytr-org/git_git/master/remy_xxx.m3u]]></playlist_url>
-</channel>
-
   <channel>
     <title><![CDATA[PHUKET & PATTAYA NİGHTLİFE]]></title>
     <description></description>
