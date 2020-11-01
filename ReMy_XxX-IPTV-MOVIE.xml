@@ -9,12 +9,6 @@
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM muguratv.hdstreams]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://muguratv.hdstreams.site:8000::mac=00:1A:79:40:E3:33@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
 <title><![CDATA[ReMy_TeaM main.deskanet]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://main.deskanet.com:23600::mac=00:1A:79:00:43:93@start@stlkr]]></playlist_url>
@@ -22,12 +16,6 @@
 
 <channel>
 <title><![CDATA[ReMy_TeaM dmtn.tv]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://dmtn.tv:8080::mac=00:1A:79:66:E3:17@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM dmtn2.tv]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://dmtn.tv:8080::mac=00:1A:79:AB:F9:53@start@stlkr]]></playlist_url>
 </channel>
