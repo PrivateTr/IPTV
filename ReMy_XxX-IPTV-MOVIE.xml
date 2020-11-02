@@ -3,21 +3,33 @@
   <playlist_name><![CDATA[ReMy_XxX-IPTV-MOVIE]]></playlist_name>
 
 <channel>
-<title><![CDATA[ReMy_TeaM coolmyvip.club]]></title>
+<title><![CDATA[ReMy_TeaM frequencylive]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://ce2.coolmyvip.club:8880::mac=00:1A:79:40:25:7C@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://frequencylive.xyz:80::mac=00:1A:79:25:77:C5@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM main.deskanet]]></title>
+<title><![CDATA[ReMy_TeaM iptv.ndasat]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://main.deskanet.com:23600::mac=00:1A:79:00:43:93@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://iptv.ndasat.com:88::mac=00:1a:79:20:00:28@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM dmtn.tv]]></title>
+<title><![CDATA[ReMy_TeaM panel.globepremium]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://dmtn.tv:8080::mac=00:1A:79:AB:F9:53@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://panel.globepremium.com:8000::mac=00:1a:79:4e:50:12@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ReMy_TeaM portal.silentiptv]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://portal.silentiptv.com:8080::mac=00:1A:79:3A:C5:82@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ReMy_TeaM http://1.cms-sx.com]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://1.cms-sx.com:8080::mac=00:1A:79:00:68:B8@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
