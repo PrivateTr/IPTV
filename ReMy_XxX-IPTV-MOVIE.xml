@@ -3,15 +3,21 @@
   <playlist_name><![CDATA[ReMy_XxX-IPTV-MOVIE]]></playlist_name>
 
 <channel>
-<title><![CDATA[ReMy_TeaM crowntv]]></title>
+<title><![CDATA[ReMy_TeaM i-p-t-v.co]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://crowntv.xyz:80::mac=00:1A:79:11:09:3F@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://i-p-t-v.co:8080::mac=00:1A:79:00:7A:60@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
 <title><![CDATA[ReMy_TeaM 104.218.60.224]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://104.218.60.224:83::mac=00:1A:79:00:18:88@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ReMy_TeaM samoprizren]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://samoprizren.live:25461::mac=00:1a:79:5F:22:05@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
