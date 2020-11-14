@@ -3,9 +3,21 @@
   <playlist_name><![CDATA[ReMy_XxX-IPTV-MOVIE]]></playlist_name>
 
 <channel>
-<title><![CDATA[ReMy_TeaM i-p-t-v.co]]></title>
+<title><![CDATA[ReMy_TeaM i-p-t-v.co-1]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://i-p-t-v.co:8080::mac=00:1A:79:00:7A:60@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ReMy_TeaM i-p-t-v.co-2]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://i-p-t-v.co:8080::mac=00:1A:79:00:7A:78@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ReMy_TeaM i-p-t-v.co-3]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://i-p-t-v.co:8080::mac=00:1A:79:00:7A:34@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
@@ -51,9 +63,15 @@
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM ip.cs4ip]]></title>
+<title><![CDATA[ReMy_TeaM ip.cs4ip-1]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://ip.cs4ip.com:8000::mac=00:1A:79:00:33:53@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ReMy_TeaM ip.cs4ip-2]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://ip.cs4ip.com:8000::mac=00:1a:79:6C:2D:A3@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
