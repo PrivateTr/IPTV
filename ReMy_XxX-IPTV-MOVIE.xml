@@ -3,21 +3,21 @@
   <playlist_name><![CDATA[ReMy_XxX-IPTV-MOVIE]]></playlist_name>
 
 <channel>
-<title><![CDATA[ReMy_TeaM i-p-t-v.co-1]]></title>
+<title><![CDATA[ReMy_TeaM sinotv-la.com-1]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://i-p-t-v.co:8080::mac=00:1A:79:00:7A:60@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://sinotv-la.com:80::mac=00:1A:79:00:01:01@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM i-p-t-v.co-2]]></title>
+<title><![CDATA[ReMy_TeaM sinotv-la.com-2]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://i-p-t-v.co:8080::mac=00:1A:79:00:7A:78@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://sinotv-la.com:80::mac=00:1A:79:00:01:BA@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM i-p-t-v.co-3]]></title>
+<title><![CDATA[ReMy_TeaM sinotv-la.com-3]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://i-p-t-v.co:8080::mac=00:1A:79:00:7A:34@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://sinotv-la.com:80::mac=00:1A:79:00:02:3C@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
@@ -27,9 +27,9 @@
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM samoprizren]]></title>
+<title><![CDATA[ReMy_TeaM uhdtv.one]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://samoprizren.live:25461::mac=00:1a:79:5F:22:05@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://uhdtv.one:2095::mac=00:1A:79:00:1A:A1@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
