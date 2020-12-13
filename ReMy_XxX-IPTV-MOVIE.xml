@@ -33,9 +33,9 @@
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM http://1.cms-sx.com]]></title>
+<title><![CDATA[ReMy_TeaM x.cms-sx.com:8080]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://1.cms-sx.com:8080::mac=00:1A:79:00:68:B8@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://x.cms-sx.com:8080::mac=00:1A:79:29:5B:74@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
@@ -75,9 +75,15 @@
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM yellow-star]]></title>
+<title><![CDATA[ReMy_TeaM nettv]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://yellow-star.info:8000::mac=00:1A:79:62:99:46@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://nettv.cx:8000::mac=00:1A:79:62:99:46@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ReMy_TeaM 1.cms-sx.com]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://1.cms-sx.com:8080::mac=00:1A:79:00:68:B8@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
