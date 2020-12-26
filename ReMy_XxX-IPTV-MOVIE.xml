@@ -33,21 +33,15 @@
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM x.cms-sx.com:8080]]></title>
+<title><![CDATA[ReMy_TeaM g.cctvforyou]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://x.cms-sx.com:8080::mac=00:1A:79:29:5B:74@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://g.cctvforyou.tk:8880::mac=00:1A:79:1B:90:31@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM affixx]]></title>
+<title><![CDATA[ReMy_TeaM kodi1000]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://affixx.net:8880::mac=00:1a:79:4c:72:2b@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM ip.cs4ip-1]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://ip.cs4ip.com:8000::mac=00:1A:79:00:33:53@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://kodi1000.ddns.me:25461::mac=00:1a:79:00:00:00@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
@@ -75,15 +69,33 @@
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM nettv]]></title>
+<title><![CDATA[ReMy_TeaM semprea100]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://nettv.cx:8000::mac=00:1A:79:62:99:46@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://semprea100.org:8080::mac=00:1A:79:00:00:00@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM 1.cms-sx.com]]></title>
+<title><![CDATA[ReMy_TeaM comingatya.vip]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://1.cms-sx.com:8080::mac=00:1A:79:00:68:B8@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://comingatya.vip:80::mac=00:1A:79:08:DA:20@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ReMy_TeaM portal.m3uplus]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://portal.m3uplus.stream:8080::mac=00:1A:79:63:B7:03@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ReMy_TeaM ott-4k]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://ott-4k.com:8000::mac=00:1A:79:09:A3:36@start@stlkr]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ReMy_TeaM brufen]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://brufen.xyz:22334::mac=00:1A:79:2A:09:93@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
