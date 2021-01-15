@@ -2,100 +2,17 @@
 <items>
   <playlist_name><![CDATA[ReMy_XxX-IPTV-MOVIE]]></playlist_name>
 
+
+<channel>
+<title><![CDATA[iptvmercury]]></title>
+<description></description>
+<playlist_url><![CDATA[TURKvodModul@http://iptvmercury.club/get.php?username=WaEyM1wkdU&password=UDmE984eqf&type=m3u_plus@m3u@TURKvod]]></playlist_url>
+</channel>
+
 <channel>
 <title><![CDATA[ReMy_TeaM qqtv.nl-1]]></title>
 <description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://qqtv.nl:8080::mac=00:1A:79:00:55:09@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM qqtv.nl-2]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://qqtv.nl:8080::mac=00:1A:79:00:5A:31@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM kstv.xyz]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://kstv.xyz:8080::mac=00:1A:79:35:6B:22@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM iptv.ndasat]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://iptv.ndasat.com:88::mac=00:1a:79:20:00:28@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM portal.silentiptv]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://portal.silentiptv.com:8080::mac=00:1A:79:3A:C5:82@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM g.cctvforyou]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://g.cctvforyou.tk:8880::mac=00:1A:79:1B:90:31@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM kodi1000]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://kodi1000.ddns.me:25461::mac=00:1a:79:00:00:00@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM platinum-hosting]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://platinum-hosting.co.uk:80::mac=00:1A:79:48:53:D8@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM acc2.aatvbox]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://acc2.aatvbox.club:8880::mac=00:1A:79:2D:82:7F@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM pro.viponetv]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://pro.viponetv.com:25443::mac=00:1A:79:00:00:03@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM medotv]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://medotv.nl:8000::mac=00:1A:79:47:77:25@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM semprea100]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://semprea100.org:8080::mac=00:1A:79:00:00:00@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM comingatya.vip]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://comingatya.vip:80::mac=00:1A:79:08:DA:20@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM portal.m3uplus]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://portal.m3uplus.stream:8080::mac=00:1A:79:63:B7:03@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM ott-4k]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://ott-4k.com:8000::mac=00:1A:79:09:A3:36@start@stlkr]]></playlist_url>
-</channel>
-
-<channel>
-<title><![CDATA[ReMy_TeaM brufen]]></title>
-<description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://brufen.xyz:22334::mac=00:1A:79:2A:09:93@start@stlkr]]></playlist_url>
 </channel>
 
 <channel>
