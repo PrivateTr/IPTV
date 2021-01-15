@@ -10,9 +10,9 @@
 </channel>
 
 <channel>
-<title><![CDATA[ReMy_TeaM qqtv.nl-1]]></title>
+<title><![CDATA[ReMy_TeaM gofast]]></title>
 <description></description>
-<playlist_url><![CDATA[TURKvodModul@http://qqtv.nl:8080::mac=00:1A:79:00:55:09@m3u@TURKvod]]></playlist_url>
+<playlist_url><![CDATA[TURKvodModul@http://mag.gofast-tv.me:8000::mac=00:1A:79:00:02:39@m3u@TURKvod]]></playlist_url>
 </channel>
 
 <channel>
