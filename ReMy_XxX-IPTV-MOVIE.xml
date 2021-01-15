@@ -12,6 +12,12 @@
 <channel>
 <title><![CDATA[ReMy_TeaM qqtv.nl-1]]></title>
 <description></description>
+<playlist_url><![CDATA[TURKvodModul@http://qqtv.nl:8080::mac=00:1A:79:00:55:09@m3u@TURKvod]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ReMy_TeaM qqtv.nl-1]]></title>
+<description></description>
 <playlist_url><![CDATA[TRModules@stlkr::url=http://qqtv.nl:8080::mac=00:1A:79:00:55:09@start@stlkr]]></playlist_url>
 </channel>
 
