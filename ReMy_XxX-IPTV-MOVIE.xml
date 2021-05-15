@@ -2,19 +2,16 @@
 <items>
   <playlist_name><![CDATA[ReMy_XxX-IPTV-MOVIE]]></playlist_name>
 
-
 <channel>
-<title><![CDATA[iptvmercury]]></title>
+<title><![CDATA[ReMy_TeaM pstutoriale]]></title>
 <description></description>
-<playlist_url><![CDATA[TURKvodModul@http://iptvmercury.club/get.php?username=WaEyM1wkdU&password=UDmE984eqf&type=m3u_plus@m3u@TURKvod]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://pstutoriale.net:33000::mac=00:1a:79:4c:60:b4@start@stlkr]]></playlist_url>
 </channel>
-
 <channel>
-<title><![CDATA[ReMy_TeaM qqtv.nl-1]]></title>
+<title><![CDATA[ReMy_TeaM wedr.club]]></title>
 <description></description>
-<playlist_url><![CDATA[TRModules@stlkr::url=http://mag.gofast-tv.me:8000::mac=00:1A:79:00:02:39@start@stlkr]]></playlist_url>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://wedr.club:80::mac=00:1A:79:48:52:EB@start@stlkr]]></playlist_url>
 </channel>
-
 <channel>
 <title><![CDATA[Angeles City First Look - Philippines Vlog 158]]></title>
 <description></description>
@@ -3355,6 +3352,12 @@
 <description></description>
 <stream_url><![CDATA[http://stream2.fastcdn.me/flv/414.mp4]]></stream_url>
 </channel>
+<channel>
+<title><![CDATA[iptvmercury]]></title>
+<description></description>
+<playlist_url><![CDATA[TURKvodModul@http://iptvmercury.club/get.php?username=WaEyM1wkdU&password=UDmE984eqf&type=m3u_plus@m3u@TURKvod]]></playlist_url>
+</channel>
+
   <!--<next_page_url text="Sonraki"><![CDATA[http://LinkIsminiziYazin.com/SonrakiDosyaIsmi.xml]]></next_page_url>-->
   <!--<prev_page_url text="Onceki"><![CDATA[http://LinkIsminiziYazin.com/OncekiDosyaIsmi.xml]]></prev_page_url>-->
 </items>
